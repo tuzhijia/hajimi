@@ -1,4 +1,4 @@
-FROM python:3.12-slim
+FROM ghcr.io/tuzhijia/hajimi:latest
 
 WORKDIR /app
 
